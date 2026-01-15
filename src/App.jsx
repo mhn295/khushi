@@ -476,7 +476,7 @@ export default function BirthdayWebsite() {
           </div>
           
           <h1 className="text-5xl font-bold mb-4 leading-relaxed">
-            <span className="gradient-text text-reveal">Hey nanha sitara ✨</span>
+            <span className="gradient-text text-reveal">Hey nanhay sitaray ✨</span>
           </h1>
           <p className="text-3xl font-semibold text-gray-700 mb-4 text-reveal" style={{ animationDelay: '0.3s' }}>
             It's your birthday.
@@ -510,13 +510,13 @@ export default function BirthdayWebsite() {
             <div className="absolute -top-6 -right-6 float">
               <Sparkles className="w-10 h-10 text-pink-400 drop-shadow-lg" />
             </div>
-            <div className="absolute -bottom-6 -left-6 float" style={{ animationDelay: '1s' }}>
+            <div className="absolute -bottom-6 -left-6 float" style={{ animationDelay: '.2s' }}>
               <Heart className="w-10 h-10 text-purple-400 drop-shadow-lg" />
             </div>
-            <div className="absolute top-1/2 -right-4 float" style={{ animationDelay: '2s' }}>
+            <div className="absolute top-1/2 -right-4 float" style={{ animationDelay: '1s' }}>
               <Star className="w-8 h-8 text-yellow-400 drop-shadow-lg" />
             </div>
-            <div className="absolute top-1/4 -left-4 float" style={{ animationDelay: '1.5s' }}>
+            <div className="absolute top-1/4 -left-4 float" style={{ animationDelay: '1s' }}>
               <MessageCircle className="w-8 h-8 text-blue-400 drop-shadow-lg" />
             </div>
             
@@ -741,7 +741,7 @@ export default function BirthdayWebsite() {
           
           <div className="glass-card rounded-2xl p-8 shadow-xl mb-10 fade-in border-2 border-pink-200" style={{ animationDelay: '0.8s' }}>
             <p className="text-center text-gray-700 italic text-xl font-medium leading-relaxed">
-              Not labels. Just habits.
+              😝😝😝
             </p>
           </div>
           
@@ -782,13 +782,13 @@ export default function BirthdayWebsite() {
             
             <div className="space-y-6 mb-12">
               <p className="text-2xl text-gray-800 leading-relaxed font-medium text-reveal">
-                No expectations. No pressure.
+                Again. Happy Birthday.
               </p>
               <p className="text-3xl font-bold text-reveal" style={{ animationDelay: '0.3s' }}>
-                <span className="gradient-text">Just wanted you to know —</span>
+                <span className="gradient-text">Allah apko Hamesha khush rakhy —</span>
               </p>
               <p className="text-2xl text-gray-800 font-semibold text-reveal" style={{ animationDelay: '0.6s' }}>
-                I care about you.
+                Aur dhair saray pesy de (jo hm 50 50 kr lein).
               </p>
             </div>
             
@@ -798,7 +798,7 @@ export default function BirthdayWebsite() {
             >
               <span className="relative z-10 flex items-center justify-center gap-3">
                 <Heart className="w-7 h-7" />
-                Smile 🙂
+                Ameen 🙂
                 <Sparkles className="w-7 h-7" />
               </span>
             </button>
