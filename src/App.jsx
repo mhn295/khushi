@@ -59,7 +59,7 @@ export default function BirthdayWebsite() {
   const names = [
     { text: 'Short', emoji: '📏', color: 'from-pink-300 to-rose-300' },
     { text: 'Nasamajh', emoji: '🤷‍♀️', color: 'from-purple-300 to-indigo-300' },
-    { text: 'Nanha sitara ⭐', emoji: '✨', color: 'from-yellow-300 to-amber-300' }
+    { text: 'Nanha sitara ⭐', emoji: '✨', color: 'from-yellow-300 to-amber-300' },
     { text: 'Ajeeb Aurat', emoji: '👧', color: 'from-purple-300 to-indigo-300' },
     { text: 'Pretty little baby (maybe)', emoji: '👶', color: 'from-blue-300 to-cyan-300' },
     { text: 'Rishty turwany wali aunty', emoji: '👵', color: 'from-purple-300 to-indigo-300' },
