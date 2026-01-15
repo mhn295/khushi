@@ -59,9 +59,10 @@ export default function BirthdayWebsite() {
   const names = [
     { text: 'Short', emoji: '📏', color: 'from-pink-300 to-rose-300' },
     { text: 'Nasamajh', emoji: '🤷‍♀️', color: 'from-purple-300 to-indigo-300' },
-    { text: 'Ajeeb Auray', emoji: '👧', color: 'from-purple-300 to-indigo-300' },
-    { text: 'Pretty little baby', emoji: '👶', color: 'from-blue-300 to-cyan-300' },
     { text: 'Nanha sitara ⭐', emoji: '✨', color: 'from-yellow-300 to-amber-300' }
+    { text: 'Ajeeb Aurat', emoji: '👧', color: 'from-purple-300 to-indigo-300' },
+    { text: 'Pretty little baby (maybe)', emoji: '👶', color: 'from-blue-300 to-cyan-300' },
+    { text: 'Rishty turwany wali aunty', emoji: '👵', color: 'from-purple-300 to-indigo-300' },
   ];
 
   // Enhanced particle system
@@ -696,9 +697,9 @@ export default function BirthdayWebsite() {
       {screen === 'names' && (
         <div className="max-w-lg w-full fade-in-scale relative z-10">
           <h2 className="text-4xl font-bold text-center mb-4 gradient-text pulse">
-            Things I Call You
+            Your Actual names
           </h2>
-          <p className="text-center text-gray-600 mb-10 text-lg">Tap to reveal each one</p>
+          <p className="text-center text-gray-600 mb-10 text-lg">Jo uncle aunty rakhna bhool gy</p>
           
           {/* Star burst effects */}
           <div className="relative">
