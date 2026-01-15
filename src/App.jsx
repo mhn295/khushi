@@ -19,10 +19,10 @@ export default function BirthdayWebsite() {
 
   const letterLines = [
     "We've known each other longer than we admit.",
-    "We fight a lot. Still talk every day. That says something.",
-    "You pretend you're 'nasamajh', but you're not. You just don't see your own potential yet.",
+    "We fight a lot. Still talk every day.",
+    "You pretend like you're 'naSamajh', but you're not. You just don't see your own potential yet.",
     "You get happy with small things — and honestly, that's one of your best traits.",
-    "I hope you start trusting yourself a little more this year."
+    "I hope you start trusting yourself a little more this year. (mtlb apko aqal aa jy)"
   ];
 
   const timeline = [
@@ -50,7 +50,7 @@ export default function BirthdayWebsite() {
     { 
       icon: '✨', 
       title: 'Now', 
-      text: 'Good friends. Sometimes close. Always honest.',
+      text: 'Good friends. Pakky dushman. Welly loog.',
       color: 'from-pink-400 to-purple-400',
       shadowColor: 'rgba(236, 72, 153, 0.5)'
     }
@@ -59,6 +59,7 @@ export default function BirthdayWebsite() {
   const names = [
     { text: 'Short', emoji: '📏', color: 'from-pink-300 to-rose-300' },
     { text: 'Nasamajh', emoji: '🤷‍♀️', color: 'from-purple-300 to-indigo-300' },
+    { text: 'Ajeeb Auray', emoji: '👧', color: 'from-purple-300 to-indigo-300' },
     { text: 'Pretty little baby', emoji: '👶', color: 'from-blue-300 to-cyan-300' },
     { text: 'Nanha sitara ⭐', emoji: '✨', color: 'from-yellow-300 to-amber-300' }
   ];
